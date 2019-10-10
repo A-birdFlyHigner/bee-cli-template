@@ -14,8 +14,8 @@
     "type": "git",
     "url": ""
   },
-  "author": "",
-  "license": "MIT",
+  "author": "{{author}}",
+  "license": "{{license}}",
   "dependencies": {
     "axios": "^0.15.3",
     "iview": "^3.0.1",
