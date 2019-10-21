@@ -1,9 +1,9 @@
 {
   "plugins": [
     {
-      "name": "bee-plugins-webpack-adminShop",
+      "name": "@bee/bee-plugins-webpack-adminShop",
       "version": "1.0.0"
     },
-    "bee-plugins-webpack-layout"
+    "@bee/bee-plugins-webpack-layout"
   ]
 }
