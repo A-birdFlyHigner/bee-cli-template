@@ -4,6 +4,7 @@
       "name": "@bee/bee-cli-plugins-webpack-adminShop",
       "version": "1.0.0"
     },
-    "@bee/bee-cli-plugins-layout"
+    "@bee/bee-cli-plugins-layout",
+    "@bee/bee-layout"
   ]
 }
